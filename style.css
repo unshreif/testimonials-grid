@@ -10,7 +10,7 @@ body{
 
 /*daniel*/
 #daniel{
-    width: 56vw;
+    width: 70vw;
     height:50vh;
     margin-left: 10px;
     background-color: hsl(263, 55%, 52%);
@@ -23,7 +23,7 @@ body{
 
   /*patrick*/
   #patrick{
-    width: 55.7vw;
+    width: 59vw;
     background-color: hsl(219, 29%, 14%);
   }
 /*jonathan*/
@@ -45,13 +45,12 @@ body{
     gap: 6px;
 }
 
-@media screen and (max-width: 640px) { 
+@media screen and (max-width: 440px) { 
     #conup{
         display: flex;
         flex-direction: column;
          display: flex;
   align-items: center;
-}
     }
     #daniel{
         width: 90vw;
@@ -84,3 +83,4 @@ body{
     #quote{
         display: none;
     }
+}
