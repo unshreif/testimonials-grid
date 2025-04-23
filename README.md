@@ -6,7 +6,6 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -22,14 +21,11 @@ Users should be able to:
 
 - View the optimal layout for the site depending on their device's screen size
 
-### Screenshot
-
-![Desktop Design](./desktop-design.jpg)
 
 ### Links
 
-- Solution URL: https://github.com/yourusername/testimonials-grid-section
-- Live Site URL: https://yourusername.github.io/testimonials-grid-section
+- Solution URL: https://github.com/unshreif/testimonials-grid/
+- Live Site URL: https://unshreif.github.io/testimonials-grid
 
 ## My process
 
@@ -76,4 +72,4 @@ Using CSS Grid with named template areas provides a clean and maintainable way t
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername) 
+- Frontend Mentor - [@unshreif](https://www.frontendmentor.io/profile/unshreif) 
